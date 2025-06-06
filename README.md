@@ -14,5 +14,5 @@ Welcome to **The Scalar Waze**, a groundbreaking project that harnesses closed t
 ## 🚀 Quick Start
 1. **Clone the Repo**:
    ```bash
-   git clone https://github.com/holedozer1229/the-scalar-waze.git
-   cd the-scalar-waze
+   git clone https://github.com/holedozer1229/scalar-waze-ctc-tunneling.git
+   cd the-scalar-waze-ctc-tunneling
