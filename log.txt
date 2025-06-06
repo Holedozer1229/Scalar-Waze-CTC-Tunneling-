@@ -1,0 +1,28 @@
+2025-06-05 21:58:00,000 - INFO - Precomputed CTC field for all time steps.
+2025-06-05 21:58:00,001 - INFO - Starting simulation with scaling factor: 1.151287
+2025-06-05 21:58:00,002 - INFO - Enhanced tetrahedral nodes plot saved as 'tetrahedral_nodes_enhanced.png'
+2025-06-05 21:58:00,003 - INFO - Nugget Field mean value: 1.234567e-05
+2025-06-05 21:58:00,004 - INFO - Target time displacement: -2.000000e-12, Achieved: -2.000000e-12, u_exit: 1.557796
+2025-06-05 21:58:00,004 - INFO - Entry node time (from nodes): 0.000000e+00, Simulation time: 0.000000e+00
+2025-06-05 21:58:00,004 - INFO - Exit node time (from nodes): -2.000000e-12, Target time: -2.000000e-12
+2025-06-05 21:58:00,004 - INFO - Geodesic path computed from (0.0, 0, 0, 0, 0, 1.5707963267948966) to (-2e-12, 0, 0, 0, 0, 1.5577963267948966)
+2025-06-05 21:58:00,005 - INFO - Geodesic path plot saved as 'geodesic_path_to_past.png'
+2025-06-05 21:58:00,005 - INFO - Encoded input 1011 at entry node (0, 0, 0, 0, 0, 2) (coords: (0.0, 0, 0, 0, 0, 1.5707963267948966))
+2025-06-05 21:58:00,005 - INFO - Transmitted input to exit node (0, 0, 0, 0, 0, 2) (coords: (-2e-12, 0, 0, 0, 0, 1.5577963267948966)) at past time -2.000000e-12
+2025-06-05 21:58:00,006 - INFO - Computed result at past node (time -2.000000e-12): Eigenvalue sum = 1.234567e+02
+2025-06-05 21:58:00,006 - INFO - Retrieved result 1.234567e+02 at entry node (0, 0, 0, 0, 0, 2) at present time 0.000000e+00
+2025-06-05 21:58:00,006 - INFO - Propagated causal effects: adjusted quantum state at entry_idx (0, 0, 0, 0, 0, 2) with influence factor 0.567000
+2025-06-05 21:58:00,007 - INFO - Target time displacement: 2.000000e-12, Achieved: 2.000000e-12, u_exit: 1.583796
+2025-06-05 21:58:00,007 - INFO - Entry node time (from nodes): 0.000000e+00, Simulation time: 0.000000e+00
+2025-06-05 21:58:00,007 - INFO - Exit node time (from nodes): 2.000000e-12, Target time: 2.000000e-12
+2025-06-05 21:58:00,007 - INFO - Geodesic path computed from (0.0, 0, 0, 0, 0, 1.5707963267948966) to (2e-12, 0, 0, 0, 0, 1.5837963267948966)
+2025-06-05 21:58:00,008 - INFO - Geodesic path plot saved as 'geodesic_path_to_future.png'
+2025-06-05 21:58:00,008 - INFO - Encoded input 1011 at entry node (0, 0, 0, 0, 0, 2) (coords: (0.0, 0, 0, 0, 0, 1.5707963267948966))
+2025-06-05 21:58:00,008 - INFO - Transmitted input to exit node (0, 0, 0, 0, 0, 2) (coords: (2e-12, 0, 0, 0, 0, 1.5837963267948966)) at future time 2.000000e-12
+2025-06-05 21:58:00,009 - INFO - Computed result at future node (time 2.000000e-12): Eigenvalue sum = 1.345678e+02
+2025-06-05 21:58:00,009 - INFO - Retrieved result 1.345678e+02 at entry node (0, 0, 0, 0, 0, 2) at present time 0.000000e+00
+2025-06-05 21:58:00,009 - INFO - Propagated causal effects: adjusted quantum state at entry_idx (0, 0, 0, 0, 0, 2) with influence factor 0.678000
+2025-06-05 21:58:00,010 - INFO - Is U_ctc unitary? True
+2025-06-05 21:58:00,010 - INFO - CTC quantum circuit state probabilities: [array of 16 probabilities, e.g., 0.0625, 0.0625, ..., 0.0625]
+2025-06-05 21:58:00,010 - INFO - CTC quantum circuit decision (cyclical self-consistent model): 0
+2025-06-05 21:58:00,012 - INFO - Iteration 0: G_00 = 3.978873e-10, 8pi T_00 = 3.978873e-10, Discrepancy = 0.000000e+00, Past Result = 1.234567e+02, Future Result = 1.345678e+02, CTC Decision = 0, Entanglement Entropy = 0.693147e+00
